@@ -2,3 +2,10 @@ body {
   font-family: Helvetica;
 }
 
+header h1 {
+  background-image: url('./images/pattern.jpeg');
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
